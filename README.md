@@ -7,8 +7,9 @@ VEHICULE ASTUCES GAMES - GTA V - FiveM
 1- Installez le contenu de ce référentiel dans le dossier `resources/`
 
 2- Ajouter cette ligne de code dans le fichier
-
-------------------------------------------------------------------------
+-----------------------------------
+# DGserv # Kixo86 # DragonFredo68 #
+-----------------------------------
 Facebook : https://www.facebook.com/AstucesGames/
 ------------------------------------------------------------------------
 Youtube : https://www.youtube.com/channel/UCD3QItQHlAUNGrNM2yudAZA
